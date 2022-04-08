@@ -1,0 +1,11 @@
+a text based game of Tic Tac Toe
+initial plan
+
+1. create a grid first
+2. insert inputs in blank spaces
+    a. create the mutable blank spaces
+    b. create mechanism for specifying blank spaces
+        1. perhaps create an array that has the 9 spaces on a grid and then also display a dummy grid specifying
+           which position corresponds with the number in menu displayed to them.
+3. create loop that reprints grid with inputs
+4. create if statements that check to see if win conditions are met and break loop and declare winner if so
